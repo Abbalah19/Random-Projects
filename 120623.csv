@@ -1,0 +1,1633 @@
+"DLZ - Summary Report"
+"Sample ID:","Rinse"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:31:50"
+"Sample Description:"
+"Batch ID:","12/06/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,11422.515
+"| ","Be",9,,"ug/L",,59973.853
+"|-","Al",27,,"ug/L",,106532.908
+"|-","V",51,,"ug/L",,-6532.140
+"| ","Cr",52,,"ug/L",,10258.786
+"| ","Mn",55,,"ug/L",,2833.109
+"| ","Fe",57,,"ug/L",,4924.001
+"| ","Co",59,,"ug/L",,46964.346
+"| ","Ni",60,,"ug/L",,240.003
+"| ","Cu",63,,"ug/L",,499.014
+"| ","Zn",66,,"ug/L",,535.349
+"| ","As",75,,"ug/L",,-507.962
+"| ","Se",82,,"ug/L",,-9.126
+"|>","Ge",74,,"ug/L",,28.305
+"|-","Mo",97,,"ug/L",,86.279
+"|-","Ag",107,,"ug/L",,25.667
+"| ","Cd",111,,"ug/L",,16.741
+"|>","In",115,,"ug/L",,107663.342
+"| ","Sb",123,,"ug/L",,281.492
+"|-","Ba",137,,"ug/L",,15374.001
+"|-","Tl",205,,"ug/L",,123667.297
+"| ","Pb",208,,"ug/L",,168294.924
+"|>","Bi",209,,"ug/L",,867.378
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Rinse"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:35:01"
+"Sample Description:"
+"Batch ID:","12/06/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,92062.201
+"| ","Be",9,,"ug/L",,51496.684
+"|-","Al",27,,"ug/L",,97582.058
+"|-","V",51,,"ug/L",,-6653.100
+"| ","Cr",52,,"ug/L",,10398.281
+"| ","Mn",55,,"ug/L",,2006.557
+"| ","Fe",57,,"ug/L",,4624.176
+"| ","Co",59,,"ug/L",,39232.381
+"| ","Ni",60,,"ug/L",,197.335
+"| ","Cu",63,,"ug/L",,356.007
+"| ","Zn",66,,"ug/L",,611.688
+"| ","As",75,,"ug/L",,-479.908
+"| ","Se",82,,"ug/L",,2.637
+"|>","Ge",74,,"ug/L",,43281.254
+"|-","Mo",97,,"ug/L",,45.461
+"|-","Ag",107,,"ug/L",,20.667
+"| ","Cd",111,,"ug/L",,23.844
+"|>","In",115,,"ug/L",,143184.885
+"| ","Sb",123,,"ug/L",,173.157
+"|-","Ba",137,,"ug/L",,12554.628
+"|-","Tl",205,,"ug/L",,103749.800
+"| ","Pb",208,,"ug/L",,140173.542
+"|>","Bi",209,,"ug/L",,68173.096
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 1@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:38:13"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,720486.127
+"| ","Be",9,,"ug/L",,22.000
+"|-","Al",27,,"ug/L",,53098.655
+"|-","V",51,,"ug/L",,-10842.280
+"| ","Cr",52,,"ug/L",,11435.188
+"| ","Mn",55,,"ug/L",,1100.733
+"| ","Fe",57,,"ug/L",,4593.494
+"| ","Co",59,,"ug/L",,60.334
+"| ","Ni",60,,"ug/L",,198.669
+"| ","Cu",63,,"ug/L",,342.006
+"| ","Zn",66,,"ug/L",,364.674
+"| ","As",75,,"ug/L",,-662.588
+"| ","Se",82,,"ug/L",,5.285
+"|>","Ge",74,,"ug/L",,340076.157
+"|-","Mo",97,,"ug/L",,53.685
+"|-","Ag",107,,"ug/L",,21.000
+"| ","Cd",111,,"ug/L",,60.726
+"|>","In",115,,"ug/L",,415513.927
+"| ","Sb",123,,"ug/L",,193.050
+"|-","Ba",137,,"ug/L",,77.177
+"|-","Tl",205,,"ug/L",,299.005
+"| ","Pb",208,,"ug/L",,606.341
+"|>","Bi",209,,"ug/L",,510129.530
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 2@2308560"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:41:25"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,724673.214
+"| ","Be",9,0.200000,"ug/L",41.363,228.003
+"|-","Al",27,,"ug/L",,32344.450
+"|-","V",51,,"ug/L",,-10563.735
+"| ","Cr",52,,"ug/L",,14346.312
+"| ","Mn",55,,"ug/L",,5467.310
+"| ","Fe",57,,"ug/L",,5698.452
+"| ","Co",59,,"ug/L",,2712.072
+"| ","Ni",60,,"ug/L",,682.026
+"| ","Cu",63,,"ug/L",,2462.334
+"| ","Zn",66,,"ug/L",,1280.090
+"| ","As",75,,"ug/L",,-402.821
+"| ","Se",82,,"ug/L",,18.968
+"|>","Ge",74,,"ug/L",,334088.195
+"|-","Mo",97,,"ug/L",,205.317
+"|-","Ag",107,,"ug/L",,401.342
+"| ","Cd",111,0.200000,"ug/L",4.097,453.725
+"|>","In",115,,"ug/L",,409802.004
+"| ","Sb",123,,"ug/L",,369.880
+"|-","Ba",137,,"ug/L",,3516.857
+"|-","Tl",205,0.200000,"ug/L",2.296,7616.523
+"| ","Pb",208,,"ug/L",,10660.130
+"|>","Bi",209,,"ug/L",,505597.090
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 3@2308561"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:44:36"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,721887.165
+"| ","Be",9,0.476100,"ug/L",0.834,398.675
+"|-","Al",27,,"ug/L",,66332.489
+"|-","V",51,,"ug/L",,-8112.625
+"| ","Cr",52,,"ug/L",,17585.327
+"| ","Mn",55,,"ug/L",,10627.875
+"| ","Fe",57,,"ug/L",,7965.489
+"| ","Co",59,,"ug/L",,6532.347
+"| ","Ni",60,,"ug/L",,1421.444
+"| ","Cu",63,1.000000,"ug/L",1.056,5645.753
+"| ","Zn",66,,"ug/L",,2670.726
+"| ","As",75,0.500000,"ug/L",76.794,-409.427
+"| ","Se",82,,"ug/L",,31.291
+"|>","Ge",74,,"ug/L",,331825.885
+"|-","Mo",97,,"ug/L",,437.873
+"|-","Ag",107,,"ug/L",,1018.390
+"| ","Cd",111,0.506183,"ug/L",1.002,1118.243
+"|>","In",115,,"ug/L",,401896.641
+"| ","Sb",123,,"ug/L",,655.136
+"|-","Ba",137,,"ug/L",,8456.104
+"|-","Tl",205,0.499098,"ug/L",0.316,18327.791
+"| ","Pb",208,0.500000,"ug/L",0.206,25284.834
+"|>","Bi",209,,"ug/L",,504561.325
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 4@2308562"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:47:47"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,717507.605
+"| ","Be",9,0.998715,"ug/L",3.346,803.702
+"|-","Al",27,,"ug/L",,115435.274
+"|-","V",51,,"ug/L",,-1791.509
+"| ","Cr",52,1.000000,"ug/L",1.187,23113.680
+"| ","Mn",55,1.000000,"ug/L",0.488,20589.290
+"| ","Fe",57,20.000000,"ug/L",4.058,11898.450
+"| ","Co",59,1.000000,"ug/L",0.791,13132.813
+"| ","Ni",60,,"ug/L",,2738.079
+"| ","Cu",63,2.007390,"ug/L",0.586,11108.783
+"| ","Zn",66,,"ug/L",,5210.160
+"| ","As",75,1.142392,"ug/L",19.153,604.420
+"| ","Se",82,,"ug/L",,71.013
+"|>","Ge",74,,"ug/L",,330409.401
+"|-","Mo",97,0.400000,"ug/L",1.812,839.902
+"|-","Ag",107,0.200000,"ug/L",3.075,1963.212
+"| ","Cd",111,1.003620,"ug/L",2.813,2204.182
+"|>","In",115,,"ug/L",,405332.707
+"| ","Sb",123,,"ug/L",,1190.216
+"|-","Ba",137,4.000000,"ug/L",0.571,17138.614
+"|-","Tl",205,1.003799,"ug/L",1.286,36895.385
+"| ","Pb",208,1.006025,"ug/L",0.970,51289.964
+"|>","Bi",209,,"ug/L",,502598.690
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 5@2308563"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:50:59"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,709740.240
+"| ","Be",9,4.998133,"ug/L",1.364,3863.821
+"|-","Al",27,50.000000,"ug/L",0.599,523052.605
+"|-","V",51,5.000000,"ug/L",2.296,44426.418
+"| ","Cr",52,4.979510,"ug/L",0.669,64979.076
+"| ","Mn",55,4.994173,"ug/L",1.480,95290.337
+"| ","Fe",57,99.986414,"ug/L",1.538,41292.910
+"| ","Co",59,4.999491,"ug/L",0.242,64907.578
+"| ","Ni",60,5.000000,"ug/L",1.253,12791.326
+"| ","Cu",63,10.001857,"ug/L",0.277,53937.893
+"| ","Zn",66,10.000000,"ug/L",0.484,14498.219
+"| ","As",75,5.050287,"ug/L",4.682,6230.008
+"| ","Se",82,,"ug/L",,320.629
+"|>","Ge",74,,"ug/L",,328637.935
+"|-","Mo",97,1.998796,"ug/L",1.133,3909.001
+"|-","Ag",107,0.999653,"ug/L",0.903,9582.049
+"| ","Cd",111,4.994841,"ug/L",1.324,10452.832
+"|>","In",115,,"ug/L",,402482.654
+"| ","Sb",123,1.000000,"ug/L",3.734,5043.833
+"|-","Ba",137,20.003746,"ug/L",1.165,85200.300
+"|-","Tl",205,5.000207,"ug/L",0.275,182534.201
+"| ","Pb",208,4.997625,"ug/L",0.862,249732.004
+"|>","Bi",209,,"ug/L",,501936.626
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 6@2308564"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:54:11"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,715911.740
+"| ","Be",9,10.017301,"ug/L",0.948,7840.380
+"|-","Al",27,101.156740,"ug/L",1.249,1059954.285
+"|-","V",51,10.126275,"ug/L",2.043,106670.837
+"| ","Cr",52,9.959139,"ug/L",1.161,117319.868
+"| ","Mn",55,10.041156,"ug/L",0.929,193669.597
+"| ","Fe",57,201.662354,"ug/L",0.337,81284.797
+"| ","Co",59,9.991870,"ug/L",0.676,129344.667
+"| ","Ni",60,10.034082,"ug/L",1.089,25844.687
+"| ","Cu",63,20.021645,"ug/L",0.914,108151.861
+"| ","Zn",66,21.857227,"ug/L",0.715,49575.140
+"| ","As",75,10.066079,"ug/L",3.734,13408.832
+"| ","Se",82,4.000000,"ug/L",2.899,652.982
+"|>","Ge",74,,"ug/L",,328852.226
+"|-","Mo",97,4.026005,"ug/L",2.801,8025.188
+"|-","Ag",107,2.000008,"ug/L",0.860,19144.137
+"| ","Cd",111,10.016170,"ug/L",0.194,21026.697
+"|>","In",115,,"ug/L",,402388.606
+"| ","Sb",123,2.019865,"ug/L",2.019,10398.882
+"|-","Ba",137,40.067678,"ug/L",1.021,171672.444
+"|-","Tl",205,10.011742,"ug/L",0.558,370793.103
+"| ","Pb",208,10.029108,"ug/L",0.518,511644.406
+"|>","Bi",209,,"ug/L",,507381.480
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 7@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 09:57:22"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,725758.918
+"| ","Be",9,49.989179,"ug/L",1.128,39405.219
+"|-","Al",27,499.945520,"ug/L",1.473,5088751.481
+"|-","V",51,50.060446,"ug/L",0.930,586421.341
+"| ","Cr",52,49.987181,"ug/L",0.598,544832.148
+"| ","Mn",55,49.987808,"ug/L",0.643,960794.478
+"| ","Fe",57,1000.207061,"ug/L",1.289,389350.352
+"| ","Co",59,50.031577,"ug/L",0.518,659410.639
+"| ","Ni",60,50.043470,"ug/L",1.327,131143.210
+"| ","Cu",63,100.060782,"ug/L",0.630,548892.811
+"| ","Zn",66,97.421024,"ug/L",0.991,145926.964
+"| ","As",75,50.033597,"ug/L",0.819,70543.941
+"| ","Se",82,20.015052,"ug/L",2.185,3327.624
+"|>","Ge",74,,"ug/L",,330741.135
+"|-","Mo",97,20.013312,"ug/L",1.177,40445.359
+"|-","Ag",107,10.009740,"ug/L",0.958,99070.910
+"| ","Cd",111,50.001180,"ug/L",1.505,106332.436
+"|>","In",115,,"ug/L",,408407.221
+"| ","Sb",123,10.006511,"ug/L",1.610,52220.112
+"|-","Ba",137,199.930405,"ug/L",2.057,863006.129
+"|-","Tl",205,49.954845,"ug/L",0.439,1838863.910
+"| ","Pb",208,49.976876,"ug/L",0.688,2555155.288
+"|>","Bi",209,,"ug/L",,513611.593
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 8@2308566"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:00:34"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,725702.277
+"| ","Be",9,100.137468,"ug/L",0.781,79323.569
+"|-","Al",27,1001.161163,"ug/L",0.617,10181328.226
+"|-","V",51,99.875437,"ug/L",0.205,1183461.167
+"| ","Cr",52,99.873853,"ug/L",0.848,1080229.144
+"| ","Mn",55,99.630653,"ug/L",1.713,1901114.981
+"| ","Fe",57,1998.239649,"ug/L",1.781,776452.409
+"| ","Co",59,99.621035,"ug/L",1.299,1303710.809
+"| ","Ni",60,99.924395,"ug/L",1.511,262824.615
+"| ","Cu",63,199.688069,"ug/L",1.526,1096565.014
+"| ","Zn",66,198.819552,"ug/L",1.352,293038.070
+"| ","As",75,100.170871,"ug/L",0.516,143863.134
+"| ","Se",82,40.103045,"ug/L",1.049,6778.870
+"|>","Ge",74,,"ug/L",,333171.462
+"|-","Mo",97,39.999610,"ug/L",1.132,81371.359
+"|-","Ag",107,20.070710,"ug/L",0.699,200175.580
+"| ","Cd",111,100.260545,"ug/L",0.664,214058.740
+"|>","In",115,,"ug/L",,406020.947
+"| ","Sb",123,20.157395,"ug/L",2.185,107591.485
+"|-","Ba",137,400.417099,"ug/L",0.414,1725406.466
+"|-","Tl",205,100.080689,"ug/L",0.595,3681459.548
+"| ","Pb",208,99.917330,"ug/L",0.210,5073213.307
+"|>","Bi",209,,"ug/L",,511725.732
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","Cal std 9@2308567"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:03:46"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,710822.207
+"| ","Be",9,500.206947,"ug/L",1.645,391174.724
+"|-","Al",27,5005.293495,"ug/L",1.979,50700204.946
+"|-","V",51,500.220799,"ug/L",1.136,5905972.061
+"| ","Cr",52,500.004766,"ug/L",0.823,5260394.497
+"| ","Mn",55,500.744073,"ug/L",0.236,9650720.452
+"| ","Fe",57,10000.815877,"ug/L",0.331,3799498.103
+"| ","Co",59,499.926492,"ug/L",0.288,6397194.912
+"| ","Ni",60,499.527660,"ug/L",0.647,1264107.592
+"| ","Cu",63,999.310317,"ug/L",1.069,5307772.744
+"| ","Zn",66,999.644146,"ug/L",0.835,1433356.616
+"| ","As",75,500.238009,"ug/L",0.616,713804.407
+"| ","Se",82,200.190909,"ug/L",1.349,33802.140
+"|>","Ge",74,,"ug/L",,326720.389
+"|-","Mo",97,200.280407,"ug/L",0.325,410756.878
+"|-","Ag",107,99.894636,"ug/L",1.039,971454.999
+"| ","Cd",111,499.858313,"ug/L",0.422,1056277.632
+"|>","In",115,,"ug/L",,404197.273
+"| ","Sb",123,100.174026,"ug/L",2.849,550500.120
+"|-","Ba",137,2000.336821,"ug/L",0.833,8608966.036
+"|-","Tl",205,501.030460,"ug/L",1.044,18532000.972
+"| ","Pb",208,500.809518,"ug/L",1.652,25336104.181
+"|>","Bi",209,,"ug/L",,493586.402
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-ICV@23J1152"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:10:55"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,677404.168
+"| ","Be",9,110.411053,"ug/L",0.789,82312.640
+"|-","Al",27,2075.299074,"ug/L",0.834,20065671.546
+"|-","V",51,99.775956,"ug/L",0.456,1165714.305
+"| ","Cr",52,99.771405,"ug/L",0.164,1054860.944
+"| ","Mn",55,96.822426,"ug/L",1.346,1860549.679
+"| ","Fe",57,2008.530832,"ug/L",1.230,764003.210
+"| ","Co",59,101.965380,"ug/L",0.586,1300386.542
+"| ","Ni",60,104.125714,"ug/L",0.337,262754.837
+"| ","Cu",63,206.745173,"ug/L",1.031,1094634.126
+"| ","Zn",66,230.192849,"ug/L",0.663,329211.333
+"| ","As",75,111.493399,"ug/L",0.864,158058.875
+"| ","Se",82,114.146915,"ug/L",1.183,19210.599
+"|>","Ge",74,,"ug/L",,325606.680
+"|-","Mo",97,97.345541,"ug/L",1.317,198991.762
+"|-","Ag",107,41.405645,"ug/L",1.055,390445.750
+"| ","Cd",111,110.130769,"ug/L",0.209,225692.855
+"|>","In",115,,"ug/L",,391915.585
+"| ","Sb",123,46.243820,"ug/L",0.865,246521.007
+"|-","Ba",137,507.433927,"ug/L",1.619,2117507.347
+"|-","Tl",205,102.247064,"ug/L",0.615,3787257.386
+"| ","Pb",208,99.930126,"ug/L",1.133,5062788.795
+"|>","Bi",209,,"ug/L",,494256.578
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-ICB@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:15:58"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,666574.130
+"| ","Be",9,-0.008678,"ug/L",124.294,14.000
+"|-","Al",27,-0.098183,"ug/L",47.642,48192.067
+"|-","V",51,-0.163684,"ug/L",47.733,-11913.303
+"| ","Cr",52,0.010890,"ug/L",110.147,10715.315
+"| ","Mn",55,0.007456,"ug/L",13.998,1159.407
+"| ","Fe",57,0.431790,"ug/L",96.393,4417.074
+"| ","Co",59,0.003461,"ug/L",10.522,98.667
+"| ","Ni",60,-0.006325,"ug/L",126.649,168.668
+"| ","Cu",63,0.019922,"ug/L",24.769,419.010
+"| ","Zn",66,0.202684,"ug/L",165.264,615.362
+"| ","As",75,-0.005187,"ug/L",6638.601,-616.461
+"| ","Se",82,0.352816,"ug/L",15.049,62.367
+"|>","Ge",74,,"ug/L",,315346.973
+"|-","Mo",97,0.265717,"ug/L",8.657,575.886
+"|-","Ag",107,0.001050,"ug/L",54.489,29.000
+"| ","Cd",111,0.000579,"ug/L",767.843,57.013
+"|>","In",115,,"ug/L",,382597.165
+"| ","Sb",123,0.272174,"ug/L",1.788,1593.152
+"|-","Ba",137,0.016024,"ug/L",20.093,136.239
+"|-","Tl",205,0.003291,"ug/L",15.052,402.676
+"| ","Pb",208,0.002810,"ug/L",32.225,714.011
+"|>","Bi",209,,"ug/L",,483785.425
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-LCV@23K0302"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:28:50"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,630842.939
+"| ","Be",9,0.432702,"ug/L",2.506,319.672
+"|-","Al",27,46.892236,"ug/L",0.255,467700.051
+"|-","V",51,9.607826,"ug/L",1.742,97757.595
+"| ","Cr",52,4.665041,"ug/L",1.357,56786.157
+"| ","Mn",55,4.664206,"ug/L",0.769,86121.028
+"| ","Fe",57,45.403199,"ug/L",2.001,20494.075
+"| ","Co",59,0.976299,"ug/L",1.238,11886.100
+"| ","Ni",60,4.915959,"ug/L",1.504,11959.863
+"| ","Cu",63,4.927506,"ug/L",1.873,25094.259
+"| ","Zn",66,10.877222,"ug/L",0.722,15098.529
+"| ","As",75,1.001873,"ug/L",33.728,754.625
+"| ","Se",82,5.238254,"ug/L",2.455,842.326
+"|>","Ge",74,,"ug/L",,309415.151
+"|-","Mo",97,0.954168,"ug/L",0.797,1901.806
+"|-","Ag",107,0.193114,"ug/L",2.147,1742.834
+"| ","Cd",111,0.209222,"ug/L",1.725,460.102
+"|>","In",115,,"ug/L",,371112.205
+"| ","Sb",123,0.854518,"ug/L",5.079,4484.369
+"|-","Ba",137,9.756548,"ug/L",0.871,38625.800
+"|-","Tl",205,0.188055,"ug/L",1.600,6914.630
+"| ","Pb",208,0.475433,"ug/L",0.926,23513.899
+"|>","Bi",209,,"ug/L",,471014.084
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-ICV@23J1152"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:33:37"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,654583.874
+"| ","Be",9,113.617070,"ug/L",0.557,81850.171
+"|-","Al",27,2130.593652,"ug/L",0.611,19905254.981
+"|-","V",51,101.296238,"ug/L",1.377,1161791.158
+"| ","Cr",52,100.971927,"ug/L",1.651,1047694.938
+"| ","Mn",55,98.744551,"ug/L",0.933,1862521.062
+"| ","Fe",57,2032.236237,"ug/L",0.418,758756.628
+"| ","Co",59,103.274118,"ug/L",0.672,1292839.638
+"| ","Ni",60,105.068717,"ug/L",0.777,260253.512
+"| ","Cu",63,208.823854,"ug/L",0.553,1085321.775
+"| ","Zn",66,235.253128,"ug/L",0.526,330254.250
+"| ","As",75,113.661193,"ug/L",1.631,158165.031
+"| ","Se",82,115.719502,"ug/L",2.086,19114.463
+"|>","Ge",74,,"ug/L",,319630.041
+"|-","Mo",97,98.935781,"ug/L",1.857,198501.027
+"|-","Ag",107,40.492807,"ug/L",1.369,374709.871
+"| ","Cd",111,112.773208,"ug/L",0.989,226791.972
+"|>","In",115,,"ug/L",,384632.158
+"| ","Sb",123,46.752495,"ug/L",1.431,244576.665
+"|-","Ba",137,508.177015,"ug/L",1.543,2081011.996
+"|-","Tl",205,104.228406,"ug/L",1.917,3810235.115
+"| ","Pb",208,100.968797,"ug/L",1.527,5049232.032
+"|>","Bi",209,,"ug/L",,487879.817
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:38:15"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,669346.932
+"| ","Be",9,49.764119,"ug/L",1.059,36672.833
+"|-","Al",27,496.522043,"ug/L",0.720,4781612.448
+"|-","V",51,49.627320,"ug/L",0.695,555504.123
+"| ","Cr",52,49.301615,"ug/L",1.041,509293.605
+"| ","Mn",55,49.062543,"ug/L",0.737,911919.459
+"| ","Fe",57,1001.341710,"ug/L",0.158,370357.298
+"| ","Co",59,50.434851,"ug/L",0.437,621852.917
+"| ","Ni",60,50.536685,"ug/L",0.557,123380.288
+"| ","Cu",63,101.358510,"ug/L",0.225,518980.523
+"| ","Zn",66,100.135534,"ug/L",1.001,138635.777
+"| ","As",75,49.464560,"ug/L",0.703,67450.558
+"| ","Se",82,19.893194,"ug/L",1.338,3240.547
+"|>","Ge",74,,"ug/L",,314784.208
+"|-","Mo",97,19.705035,"ug/L",1.758,38979.238
+"|-","Ag",107,9.917716,"ug/L",1.515,93427.009
+"| ","Cd",111,49.991074,"ug/L",0.816,102357.927
+"|>","In",115,,"ug/L",,391451.335
+"| ","Sb",123,9.476787,"ug/L",4.434,50604.340
+"|-","Ba",137,198.428603,"ug/L",0.870,827149.732
+"|-","Tl",205,47.718478,"ug/L",1.587,1741448.542
+"| ","Pb",208,49.176031,"ug/L",0.761,2454628.615
+"|>","Bi",209,,"ug/L",,486876.271
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-IFA@2308570"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:48:51"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,626940.974
+"| ","Be",9,-0.004586,"ug/L",302.252,16.000
+"|-","Al",27,4875.152835,"ug/L",17.337,43543714.687
+"|-","V",51,-0.212231,"ug/L",103.764,-12519.447
+"| ","Cr",52,-0.057739,"ug/L",110.538,10056.234
+"| ","Mn",55,0.044013,"ug/L",18.838,1845.855
+"| ","Fe",57,4455.493854,"ug/L",18.637,1640090.470
+"| ","Co",59,0.056804,"ug/L",11.341,760.032
+"| ","Ni",60,0.131874,"ug/L",24.549,507.681
+"| ","Cu",63,0.097447,"ug/L",17.222,819.370
+"| ","Zn",66,0.256536,"ug/L",8.875,696.027
+"| ","As",75,-0.032087,"ug/L",511.995,-659.040
+"| ","Se",82,0.123008,"ug/L",41.128,24.981
+"|>","Ge",74,,"ug/L",,316763.294
+"|-","Mo",97,88.980994,"ug/L",18.412,176593.956
+"|-","Ag",107,0.006852,"ug/L",15.319,80.334
+"| ","Cd",111,-0.019029,"ug/L",19.291,17.417
+"|>","In",115,,"ug/L",,372984.442
+"| ","Sb",123,0.144429,"ug/L",22.611,905.403
+"|-","Ba",137,0.063080,"ug/L",9.321,319.768
+"|-","Tl",205,0.003591,"ug/L",38.761,394.342
+"| ","Pb",208,0.034060,"ug/L",14.708,2152.435
+"|>","Bi",209,,"ug/L",,460505.672
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-IFB@2308571"
+"Sample Date/Time:","Wednesday, December 06, 2023 10:52:01"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,609954.560
+"| ","Be",9,-0.012855,"ug/L",22.842,10.000
+"|-","Al",27,5509.286574,"ug/L",0.906,47892449.276
+"|-","V",51,81.907467,"ug/L",1.405,922883.057
+"| ","Cr",52,79.768605,"ug/L",1.616,817047.110
+"| ","Mn",55,79.270940,"ug/L",1.194,1472053.202
+"| ","Fe",57,4830.154924,"ug/L",1.040,1769335.526
+"| ","Co",59,81.352985,"ug/L",0.435,1002606.672
+"| ","Ni",60,82.454513,"ug/L",1.507,201083.643
+"| ","Cu",63,82.045439,"ug/L",1.101,419946.124
+"| ","Zn",66,46.653100,"ug/L",0.680,64744.758
+"| ","As",75,45.304499,"ug/L",0.395,61699.193
+"| ","Se",82,45.424277,"ug/L",0.817,7389.980
+"|>","Ge",74,,"ug/L",,314653.602
+"|-","Mo",97,96.352179,"ug/L",0.697,190325.453
+"|-","Ag",107,21.339127,"ug/L",1.109,191365.518
+"| ","Cd",111,45.209533,"ug/L",0.671,88131.283
+"|>","In",115,,"ug/L",,372679.333
+"| ","Sb",123,0.094131,"ug/L",7.452,650.199
+"|-","Ba",137,0.057177,"ug/L",4.782,296.065
+"|-","Tl",205,0.001036,"ug/L",66.192,301.005
+"| ","Pb",208,0.035454,"ug/L",3.877,2187.103
+"|>","Bi",209,,"ug/L",,453516.332
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-ICV"
+"Sample Date/Time:","Wednesday, December 06, 2023 11:47:50"
+"Sample Description:","Zn 200"
+"Batch ID:","12/06/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 mod.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,563228.055
+"| ","Be",9,-0.012182,"ug/L",25.427,9.667
+"|-","Al",27,-4.084446,"ug/L",2.125,8737.203
+"|-","V",51,-0.398258,"ug/L",21.694,-13198.899
+"| ","Cr",52,0.239534,"ug/L",3.338,11784.635
+"| ","Mn",55,7.935902,"ug/L",2.114,134384.041
+"| ","Fe",57,-0.675389,"ug/L",33.463,3627.724
+"| ","Co",59,-0.001097,"ug/L",17.982,38.333
+"| ","Ni",60,-0.029554,"ug/L",2.077,101.334
+"| ","Cu",63,-0.020816,"ug/L",4.095,190.335
+"| ","Zn",66,229.744150,"ug/L",1.274,287798.341
+"| ","As",75,-0.366325,"ug/L",20.904,-1012.077
+"| ","Se",82,0.154800,"ug/L",45.558,27.343
+"|>","Ge",74,,"ug/L",,285176.963
+"|-","Mo",97,0.172367,"ug/L",31.423,354.249
+"|-","Ag",107,0.001468,"ug/L",60.382,30.333
+"| ","Cd",111,-0.004617,"ug/L",92.442,42.917
+"|>","In",115,,"ug/L",,351453.998
+"| ","Sb",123,0.049008,"ug/L",5.904,397.611
+"|-","Ba",137,0.001789,"ug/L",301.891,71.585
+"|-","Tl",205,-0.004107,"ug/L",9.216,125.334
+"| ","Pb",208,0.000437,"ug/L",65.767,555.673
+"|>","Bi",209,,"ug/L",,450566.612
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:26:56"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,545566.639
+"|-","Al",27,506.461836,"ug/L",1.349,3974030.442
+"|-","V",51,48.466926,"ug/L",1.113,491092.742
+"| ","Cr",52,49.483688,"ug/L",1.432,462891.257
+"| ","Mn",55,49.311626,"ug/L",1.297,830069.933
+"| ","Fe",57,1002.333491,"ug/L",0.588,335710.198
+"| ","Co",59,50.556394,"ug/L",0.886,564494.833
+"| ","Ni",60,50.791017,"ug/L",0.653,112285.529
+"| ","Cu",63,100.701629,"ug/L",0.181,466916.545
+"|>","Ge",74,,"ug/L",,285053.014
+"|-","Mo",97,19.672238,"ug/L",2.392,35246.151
+"|-","Ag",107,9.958163,"ug/L",0.375,84382.190
+"|>","In",115,,"ug/L",,352112.627
+"|-","Ba",137,197.656355,"ug/L",0.943,741194.040
+"|-","Tl",205,48.264930,"ug/L",1.018,1611000.026
+"| ","Pb",208,49.356013,"ug/L",1.619,2253421.274
+"|>","Bi",209,,"ug/L",,445332.728
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCB@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:29:30"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,523061.358
+"|-","Al",27,0.255430,"ug/L",24.486,40447.450
+"|-","V",51,-0.300325,"ug/L",62.301,-11889.211
+"| ","Cr",52,0.124339,"ug/L",9.646,10465.020
+"| ","Mn",55,0.004016,"ug/L",54.226,966.385
+"| ","Fe",57,0.731873,"ug/L",9.097,3993.877
+"| ","Co",59,0.002484,"ug/L",90.247,76.334
+"| ","Ni",60,-0.026537,"ug/L",9.117,105.334
+"| ","Cu",63,-0.015152,"ug/L",30.205,211.336
+"|>","Ge",74,,"ug/L",,278181.143
+"|-","Mo",97,0.075697,"ug/L",15.412,176.161
+"|-","Ag",107,0.000643,"ug/L",110.147,22.667
+"|>","In",115,,"ug/L",,343778.180
+"|-","Ba",137,0.011320,"ug/L",17.401,105.262
+"|-","Tl",205,-0.000121,"ug/L",1160.827,250.670
+"| ","Pb",208,0.000581,"ug/L",119.305,541.673
+"|>","Bi",209,,"ug/L",,433912.024
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-BLK1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:32:27"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,529055.706
+"|-","Al",27,-2.766508,"ug/L",2.738,18151.117
+"|-","V",51,-1.823749,"ug/L",8.254,-26440.235
+"| ","Cr",52,0.572552,"ug/L",16.663,14047.868
+"| ","Mn",55,0.028113,"ug/L",15.817,1321.763
+"| ","Fe",57,-0.133620,"ug/L",237.856,3605.715
+"| ","Co",59,0.001709,"ug/L",71.649,66.000
+"| ","Ni",60,-0.031138,"ug/L",20.538,92.667
+"| ","Cu",63,0.014677,"ug/L",18.568,336.006
+"|>","Ge",74,,"ug/L",,270062.849
+"|-","Mo",97,0.037261,"ug/L",36.242,105.758
+"|-","Ag",107,0.001807,"ug/L",36.798,31.333
+"|>","In",115,,"ug/L",,333531.219
+"|-","Ba",137,0.013129,"ug/L",34.842,108.514
+"|-","Tl",205,-0.002848,"ug/L",41.713,162.001
+"| ","Pb",208,0.013714,"ug/L",1.519,1127.361
+"|>","Bi",209,,"ug/L",,434570.784
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-BS1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:35:02"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,527980.421
+"|-","Al",27,51.967525,"ug/L",0.680,429578.330
+"|-","V",51,49.824243,"ug/L",0.734,496472.228
+"| ","Cr",52,50.870507,"ug/L",0.988,467456.733
+"| ","Mn",55,50.325551,"ug/L",0.186,832647.544
+"| ","Fe",57,409.278127,"ug/L",0.466,136982.654
+"| ","Co",59,51.211753,"ug/L",0.324,562071.926
+"| ","Ni",60,52.229125,"ug/L",0.094,113500.482
+"| ","Cu",63,102.033806,"ug/L",0.318,465052.990
+"|>","Ge",74,,"ug/L",,280205.349
+"|-","Mo",97,48.840055,"ug/L",1.765,85945.344
+"|-","Ag",107,50.301918,"ug/L",1.038,417138.798
+"|>","In",115,,"ug/L",,344654.039
+"|-","Ba",137,50.678817,"ug/L",1.368,186051.972
+"|-","Tl",205,49.673440,"ug/L",0.693,1640828.542
+"| ","Pb",208,50.010856,"ug/L",1.488,2259626.961
+"|>","Bi",209,,"ug/L",,440740.120
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-BSD1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:37:37"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,529533.862
+"|-","Al",27,53.660266,"ug/L",1.067,443600.359
+"|-","V",51,48.442455,"ug/L",0.966,485407.124
+"| ","Cr",52,48.762626,"ug/L",0.826,451230.531
+"| ","Mn",55,48.882209,"ug/L",0.355,813729.736
+"| ","Fe",57,396.683805,"ug/L",0.803,133699.042
+"| ","Co",59,49.845459,"ug/L",0.805,550408.520
+"| ","Ni",60,50.488684,"ug/L",0.269,110393.906
+"| ","Cu",63,100.105456,"ug/L",0.404,459054.527
+"|>","Ge",74,,"ug/L",,281915.600
+"|-","Mo",97,48.244781,"ug/L",0.661,85410.914
+"|-","Ag",107,44.299517,"ug/L",0.809,368452.219
+"|>","In",115,,"ug/L",,345698.087
+"|-","Ba",137,50.041343,"ug/L",1.311,184249.697
+"|-","Tl",205,49.255811,"ug/L",1.832,1618575.198
+"| ","Pb",208,49.223130,"ug/L",0.170,2212607.130
+"|>","Bi",209,,"ug/L",,438458.420
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-MS1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:40:12"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,485588.565
+"|-","Al",27,-4.547896,"ug/L",0.186,4342.370
+"|-","V",51,0.203682,"ug/L",20.128,-6836.500
+"| ","Cr",52,-0.158260,"ug/L",8.200,7962.820
+"| ","Mn",55,-0.024464,"ug/L",8.770,500.347
+"| ","Fe",57,-1.501393,"ug/L",17.984,3281.926
+"| ","Co",59,0.002464,"ug/L",86.194,76.334
+"| ","Ni",60,-0.041171,"ug/L",10.257,74.000
+"| ","Cu",63,-0.026710,"ug/L",31.487,159.335
+"|>","Ge",74,,"ug/L",,279015.362
+"|-","Mo",97,0.126850,"ug/L",33.234,265.945
+"|-","Ag",107,0.003456,"ug/L",13.202,44.333
+"|>","In",115,,"ug/L",,331666.025
+"|-","Ba",137,-0.000927,"ug/L",398.663,58.272
+"|-","Tl",205,0.001252,"ug/L",263.559,283.671
+"| ","Pb",208,-0.002419,"ug/L",114.206,392.670
+"|>","Bi",209,,"ug/L",,419200.977
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-MSD1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:42:46"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,527602.664
+"|-","Al",27,53.198729,"ug/L",0.876,438521.968
+"|-","V",51,50.017974,"ug/L",0.989,501529.438
+"| ","Cr",52,49.397348,"ug/L",1.478,457005.676
+"| ","Mn",55,56.717029,"ug/L",0.464,944142.671
+"| ","Fe",57,566.663760,"ug/L",0.136,189381.997
+"| ","Co",59,50.009774,"ug/L",0.900,552310.209
+"| ","Ni",60,51.015170,"ug/L",1.185,111557.709
+"| ","Cu",63,98.905754,"ug/L",1.311,453594.932
+"|>","Ge",74,,"ug/L",,281956.371
+"|-","Mo",97,49.445948,"ug/L",1.051,87544.395
+"|-","Ag",107,42.514627,"ug/L",1.331,351021.269
+"|>","In",115,,"ug/L",,343170.598
+"|-","Ba",137,58.671752,"ug/L",0.409,214453.463
+"|-","Tl",205,50.302809,"ug/L",1.356,1620657.994
+"| ","Pb",208,50.033186,"ug/L",1.364,2204908.001
+"|>","Bi",209,,"ug/L",,429883.836
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-PS1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:45:21"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,519870.420
+"|-","Al",27,200.888014,"ug/L",0.480,1525298.004
+"|-","V",51,19.385892,"ug/L",0.607,175053.936
+"| ","Cr",52,20.201951,"ug/L",2.323,178415.541
+"| ","Mn",55,85.667503,"ug/L",0.908,1321191.695
+"| ","Fe",57,1774.370700,"ug/L",0.664,542059.025
+"| ","Co",59,20.350155,"ug/L",1.153,208315.200
+"| ","Ni",60,22.318537,"ug/L",1.631,45317.691
+"| ","Cu",63,38.224855,"ug/L",0.445,162636.222
+"|>","Ge",74,,"ug/L",,261310.388
+"|-","Mo",97,9.560970,"ug/L",2.287,15721.726
+"|-","Ag",107,3.746773,"ug/L",1.053,29242.295
+"|>","In",115,,"ug/L",,324209.650
+"|-","Ba",137,144.553154,"ug/L",1.640,499008.717
+"|-","Tl",205,20.586523,"ug/L",0.504,582674.312
+"| ","Pb",208,20.600641,"ug/L",1.105,797640.616
+"|>","Bi",209,,"ug/L",,377561.730
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-SRL1"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:47:57"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,527264.157
+"|-","Al",27,-0.392001,"ug/L",467.039,35861.773
+"|-","V",51,-0.838825,"ug/L",15.745,-17508.978
+"| ","Cr",52,0.028315,"ug/L",90.056,9711.187
+"| ","Mn",55,16.404564,"ug/L",0.990,272979.912
+"| ","Fe",57,338.019764,"ug/L",1.710,114186.040
+"| ","Co",59,0.094118,"ug/L",3.614,1086.398
+"| ","Ni",60,0.658864,"ug/L",4.670,1599.141
+"| ","Cu",63,0.250811,"ug/L",2.752,1429.112
+"|>","Ge",74,,"ug/L",,281186.293
+"|-","Mo",97,0.396855,"ug/L",8.614,744.642
+"|-","Ag",107,0.006613,"ug/L",19.823,73.000
+"|>","In",115,,"ug/L",,348369.218
+"|-","Ba",137,16.182021,"ug/L",0.804,60089.918
+"|-","Tl",205,0.003327,"ug/L",39.549,349.673
+"| ","Pb",208,0.004639,"ug/L",12.113,696.344
+"|>","Bi",209,,"ug/L",,418398.193
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3618-04"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:50:31"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,519042.140
+"|-","Al",27,2.724979,"ug/L",13.922,58378.721
+"|-","V",51,-1.373190,"ug/L",7.051,-21161.345
+"| ","Cr",52,0.559323,"ug/L",11.777,13382.521
+"| ","Mn",55,81.843282,"ug/L",0.582,1252811.090
+"| ","Fe",57,1695.650666,"ug/L",0.578,514284.500
+"| ","Co",59,0.478990,"ug/L",1.246,4911.326
+"| ","Ni",60,3.649302,"ug/L",2.422,7481.412
+"| ","Cu",63,1.333253,"ug/L",2.061,5881.903
+"|>","Ge",74,,"ug/L",,259350.205
+"|-","Mo",97,1.644185,"ug/L",0.964,2717.393
+"|-","Ag",107,0.020260,"ug/L",12.766,174.002
+"|>","In",115,,"ug/L",,323563.610
+"|-","Ba",137,80.829715,"ug/L",0.631,278540.753
+"|-","Tl",205,0.019552,"ug/L",3.673,761.365
+"| ","Pb",208,0.057502,"ug/L",2.997,2628.817
+"|>","Bi",209,,"ug/L",,371162.182
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-MS2"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:53:07"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,513661.768
+"|-","Al",27,55.490158,"ug/L",0.499,443692.096
+"|-","V",51,51.577756,"ug/L",0.846,503124.245
+"| ","Cr",52,50.423730,"ug/L",1.041,453398.871
+"| ","Mn",55,527.197419,"ug/L",0.677,8525203.421
+"| ","Fe",57,1053.800128,"ug/L",0.150,339241.111
+"| ","Co",59,51.723637,"ug/L",0.300,555401.772
+"| ","Ni",60,62.088856,"ug/L",0.467,131975.395
+"| ","Cu",63,97.987522,"ug/L",0.388,436947.341
+"|>","Ge",74,,"ug/L",,274140.827
+"|-","Mo",97,50.768816,"ug/L",1.092,87397.606
+"|-","Ag",107,41.873596,"ug/L",0.666,336661.915
+"|>","In",115,,"ug/L",,334144.679
+"|-","Ba",137,62.428251,"ug/L",0.930,222179.273
+"|-","Tl",205,53.326548,"ug/L",0.891,1546812.898
+"| ","Pb",208,52.134748,"ug/L",0.470,2068580.350
+"|>","Bi",209,,"ug/L",,387032.443
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-MSD2"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:55:41"
+"Sample Description:","10X"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,511309.232
+"|-","Al",27,54.670754,"ug/L",2.634,435581.327
+"|-","V",51,50.549929,"ug/L",1.131,494439.367
+"| ","Cr",52,49.551814,"ug/L",1.103,447093.753
+"| ","Mn",55,515.527938,"ug/L",1.311,8362078.657
+"| ","Fe",57,1030.416144,"ug/L",1.424,332805.880
+"| ","Co",59,51.539496,"ug/L",1.194,555112.576
+"| ","Ni",60,61.873698,"ug/L",1.342,131920.982
+"| ","Cu",63,96.716301,"ug/L",1.028,432608.242
+"|>","Ge",74,,"ug/L",,274990.514
+"|-","Mo",97,49.988626,"ug/L",1.794,86318.172
+"|-","Ag",107,39.948397,"ug/L",1.535,320644.659
+"|>","In",115,,"ug/L",,333605.725
+"|-","Ba",137,60.931155,"ug/L",1.292,216490.438
+"|-","Tl",205,51.896432,"ug/L",1.896,1510631.308
+"| ","Pb",208,51.080596,"ug/L",1.746,2033875.921
+"|>","Bi",209,,"ug/L",,388437.344
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 12:58:16"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,523976.130
+"|-","Al",27,529.710101,"ug/L",1.371,3990947.194
+"|-","V",51,48.354612,"ug/L",1.698,483837.871
+"| ","Cr",52,49.770477,"ug/L",1.546,459712.174
+"| ","Mn",55,49.185901,"ug/L",1.014,817595.632
+"| ","Fe",57,996.314193,"ug/L",1.601,329579.931
+"| ","Co",59,50.580165,"ug/L",1.029,557726.637
+"| ","Ni",60,50.990394,"ug/L",0.292,111324.194
+"| ","Cu",63,100.642031,"ug/L",0.702,460825.621
+"|>","Ge",74,,"ug/L",,281495.861
+"|-","Mo",97,19.589807,"ug/L",0.361,34656.479
+"|-","Ag",107,10.055927,"ug/L",1.808,84606.616
+"|>","In",115,,"ug/L",,349629.833
+"|-","Ba",137,194.495498,"ug/L",0.909,724134.977
+"|-","Tl",205,48.762171,"ug/L",0.603,1575374.089
+"| ","Pb",208,49.642973,"ug/L",1.205,2193951.450
+"|>","Bi",209,,"ug/L",,431025.574
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCB@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:00:51"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,506225.833
+"|-","Al",27,0.525748,"ug/L",14.810,41100.056
+"|-","V",51,-0.381329,"ug/L",37.242,-12803.656
+"| ","Cr",52,0.023828,"ug/L",119.106,9633.439
+"| ","Mn",55,0.017234,"ug/L",24.668,1190.745
+"| ","Fe",57,0.132306,"ug/L",88.280,3825.805
+"| ","Co",59,0.002476,"ug/L",97.634,76.667
+"| ","Ni",60,-0.049714,"ug/L",17.211,55.667
+"| ","Cu",63,-0.011982,"ug/L",32.467,227.003
+"|>","Ge",74,,"ug/L",,280073.826
+"|-","Mo",97,0.114221,"ug/L",3.549,245.017
+"|-","Ag",107,0.002262,"ug/L",45.204,35.667
+"|>","In",115,,"ug/L",,340058.682
+"|-","Ba",137,0.013560,"ug/L",29.071,112.251
+"|-","Tl",205,0.002207,"ug/L",87.270,322.006
+"| ","Pb",208,0.002014,"ug/L",0.697,597.341
+"|>","Bi",209,,"ug/L",,428179.901
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-PS2"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:03:26"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,404445.613
+"|-","Al",27,240.824608,"ug/L",1.878,1416441.472
+"|-","V",51,19.762084,"ug/L",1.894,150817.639
+"| ","Cr",52,21.334403,"ug/L",2.191,158678.298
+"| ","Mn",55,3922.583453,"ug/L",1.627,51049352.791
+"| ","Fe",57,5559.800142,"ug/L",1.493,1427817.906
+"| ","Co",59,25.131153,"ug/L",2.044,217207.762
+"| ","Ni",60,110.962317,"ug/L",1.314,189738.622
+"| ","Cu",63,42.465387,"ug/L",1.908,152533.756
+"|>","Ge",74,,"ug/L",,220667.402
+"|-","Mo",97,9.841124,"ug/L",1.743,13663.305
+"|-","Ag",107,3.445803,"ug/L",1.547,22925.872
+"|>","In",115,,"ug/L",,276387.804
+"|-","Ba",137,167.934882,"ug/L",1.712,494216.540
+"|-","Tl",205,22.121250,"ug/L",1.659,436352.153
+"| ","Pb",208,21.445082,"ug/L",1.629,578689.454
+"|>","Bi",209,,"ug/L",,263186.122
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","B359449-SRL2"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:06:01"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,488022.714
+"|-","Al",27,-4.517018,"ug/L",0.095,4578.486
+"|-","V",51,-0.149251,"ug/L",100.208,-10604.978
+"| ","Cr",52,-0.052639,"ug/L",22.984,9084.204
+"| ","Mn",55,0.153503,"ug/L",31.213,3495.695
+"| ","Fe",57,-1.148574,"ug/L",19.044,3462.993
+"| ","Co",59,-0.000161,"ug/L",260.969,48.667
+"| ","Ni",60,-0.058786,"ug/L",11.758,36.667
+"| ","Cu",63,-0.036853,"ug/L",3.359,115.667
+"|>","Ge",74,,"ug/L",,284470.293
+"|-","Mo",97,0.032750,"ug/L",35.698,103.388
+"|-","Ag",107,0.001785,"ug/L",45.044,31.333
+"|>","In",115,,"ug/L",,334928.089
+"|-","Ba",137,0.008807,"ug/L",23.837,93.600
+"|-","Tl",205,-0.002806,"ug/L",15.882,159.001
+"| ","Pb",208,-0.005445,"ug/L",10.952,266.668
+"|>","Bi",209,,"ug/L",,423059.197
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3619-05"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:08:36"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,376489.091
+"|-","Al",27,16.172176,"ug/L",3.994,114364.599
+"|-","V",51,-2.210162,"ug/L",7.856,-23192.790
+"| ","Cr",52,1.536119,"ug/L",5.361,17203.267
+"| ","Mn",55,4941.453717,"ug/L",1.152,60428727.495
+"| ","Fe",57,6491.349904,"ug/L",1.333,1565942.939
+"| ","Co",59,5.368251,"ug/L",1.812,43625.428
+"| ","Ni",60,115.734810,"ug/L",1.889,185938.041
+"| ","Cu",63,7.467543,"ug/L",1.555,25376.035
+"|>","Ge",74,,"ug/L",,207346.008
+"|-","Mo",97,1.405725,"ug/L",3.007,1862.095
+"|-","Ag",107,0.018347,"ug/L",18.956,130.668
+"|>","In",115,,"ug/L",,265858.218
+"|-","Ba",137,110.488683,"ug/L",1.615,312798.951
+"|-","Tl",205,0.104116,"ug/L",3.820,2038.229
+"| ","Pb",208,0.121691,"ug/L",5.572,3316.905
+"|>","Bi",209,,"ug/L",,242929.905
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3511-01"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:11:12"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,310598.756
+"|-","Al",27,1257.565716,"ug/L",6.417,5572760.955
+"|-","V",51,-3.037473,"ug/L",14.588,-28293.092
+"| ","Cr",52,24.626015,"ug/L",1.763,164919.543
+"| ","Mn",55,9.591696,"ug/L",2.951,113809.864
+"| ","Fe",57,395.543482,"ug/L",1.213,94538.278
+"| ","Co",59,0.228881,"ug/L",1.697,1827.517
+"| ","Ni",60,11.414873,"ug/L",1.307,17794.085
+"| ","Cu",63,125.195732,"ug/L",3.425,407349.054
+"|>","Ge",74,,"ug/L",,199917.815
+"|-","Mo",97,2.553031,"ug/L",1.490,3234.494
+"|-","Ag",107,0.043180,"ug/L",3.281,254.004
+"|>","In",115,,"ug/L",,233086.397
+"|-","Ba",137,26.436340,"ug/L",1.039,65660.374
+"|-","Tl",205,0.019588,"ug/L",87.245,407.678
+"| ","Pb",208,2.416257,"ug/L",1.998,49793.677
+"|>","Bi",209,,"ug/L",,200126.442
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3511-03"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:13:47"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,409100.444
+"|-","Al",27,-4.222319,"ug/L",1.198,5551.696
+"|-","V",51,-0.312329,"ug/L",26.017,-14124.380
+"| ","Cr",52,0.006303,"ug/L",257.454,11069.740
+"| ","Mn",55,0.048762,"ug/L",50.351,1996.893
+"| ","Fe",57,-0.951031,"ug/L",30.852,4057.239
+"| ","Co",59,-0.001099,"ug/L",87.055,44.000
+"| ","Ni",60,0.033023,"ug/L",14.810,274.671
+"| ","Cu",63,0.052497,"ug/L",42.588,607.687
+"|>","Ge",74,,"ug/L",,327183.317
+"|-","Mo",97,0.006551,"ug/L",98.440,64.982
+"|-","Ag",107,0.000664,"ug/L",95.753,23.667
+"|>","In",115,,"ug/L",,354851.783
+"|-","Ba",137,-0.002618,"ug/L",137.971,55.896
+"|-","Tl",205,-0.004578,"ug/L",6.948,97.667
+"| ","Pb",208,-0.006831,"ug/L",2.692,196.334
+"|>","Bi",209,,"ug/L",,401944.513
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3618-01"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:16:22"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,466100.506
+"|-","Al",27,21.480841,"ug/L",3.498,176925.754
+"|-","V",51,-1.750678,"ug/L",18.906,-29063.596
+"| ","Cr",52,0.807890,"ug/L",22.242,18177.282
+"| ","Mn",55,1639.986656,"ug/L",0.787,29498234.761
+"| ","Fe",57,8289.844439,"ug/L",0.878,2940236.527
+"| ","Co",59,0.397859,"ug/L",0.490,4805.937
+"| ","Ni",60,6.290392,"ug/L",1.054,15033.755
+"| ","Cu",63,2.230215,"ug/L",1.009,11362.096
+"|>","Ge",74,,"ug/L",,304951.574
+"|-","Mo",97,0.499150,"ug/L",2.272,1003.599
+"|-","Ag",107,0.008190,"ug/L",22.644,86.334
+"|>","In",115,,"ug/L",,348708.474
+"|-","Ba",137,306.282994,"ug/L",1.053,1137313.165
+"|-","Tl",205,0.009862,"ug/L",8.656,483.680
+"| ","Pb",208,0.059157,"ug/L",0.912,2647.818
+"|>","Bi",209,,"ug/L",,365143.396
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3618-03"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:18:57"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,479242.135
+"|-","Al",27,18.866581,"ug/L",8.578,163994.300
+"|-","V",51,-0.851102,"ug/L",35.619,-19231.704
+"| ","Cr",52,0.860838,"ug/L",10.346,18817.492
+"| ","Mn",55,13.234383,"ug/L",2.242,240579.352
+"| ","Fe",57,242.604345,"ug/L",1.978,90635.608
+"| ","Co",59,0.261925,"ug/L",2.867,3203.231
+"| ","Ni",60,2.989241,"ug/L",3.578,7284.586
+"| ","Cu",63,8.076368,"ug/L",0.896,40609.166
+"|>","Ge",74,,"ug/L",,306977.213
+"|-","Mo",97,1.529389,"ug/L",2.480,2995.704
+"|-","Ag",107,0.004026,"ug/L",5.757,51.667
+"|>","In",115,,"ug/L",,350394.542
+"|-","Ba",137,97.460399,"ug/L",0.898,363665.731
+"|-","Tl",205,0.006413,"ug/L",6.073,416.010
+"| ","Pb",208,0.229992,"ug/L",1.171,9655.673
+"|>","Bi",209,,"ug/L",,389936.487
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3618-10"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:21:33"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,490792.804
+"|-","Al",27,283.373408,"ug/L",1.957,2016700.321
+"|-","V",51,-1.563827,"ug/L",13.237,-27467.292
+"| ","Cr",52,1.322578,"ug/L",6.544,23620.331
+"| ","Mn",55,336.940078,"ug/L",1.124,6168133.390
+"| ","Fe",57,555.940511,"ug/L",0.998,204580.961
+"| ","Co",59,1.082210,"ug/L",1.137,13207.921
+"| ","Ni",60,3.986046,"ug/L",2.156,9761.240
+"| ","Cu",63,2.724002,"ug/L",0.669,14054.189
+"|>","Ge",74,,"ug/L",,310330.958
+"|-","Mo",97,0.223795,"ug/L",6.388,484.812
+"|-","Ag",107,0.004992,"ug/L",22.214,60.667
+"|>","In",115,,"ug/L",,355667.144
+"|-","Ba",137,85.111494,"ug/L",1.790,322360.167
+"|-","Tl",205,0.000627,"ug/L",49.173,259.337
+"| ","Pb",208,0.452862,"ug/L",0.692,19500.563
+"|>","Bi",209,,"ug/L",,409631.551
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3619-01"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:24:08"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,438203.376
+"|-","Al",27,291.689081,"ug/L",1.021,1852248.888
+"|-","V",51,-1.244260,"ug/L",21.922,-21875.905
+"| ","Cr",52,1.224262,"ug/L",0.920,20762.015
+"| ","Mn",55,636.357433,"ug/L",0.422,10681116.165
+"| ","Fe",57,9324.827034,"ug/L",0.683,3085718.884
+"| ","Co",59,2.366731,"ug/L",0.825,26427.027
+"| ","Ni",60,4.209761,"ug/L",0.974,9443.236
+"| ","Cu",63,2.621020,"ug/L",0.150,12410.132
+"|>","Ge",74,,"ug/L",,284548.512
+"|-","Mo",97,0.661592,"ug/L",1.599,1226.407
+"|-","Ag",107,0.010874,"ug/L",10.239,102.001
+"|>","In",115,,"ug/L",,326916.405
+"|-","Ba",137,129.702532,"ug/L",0.519,451535.270
+"|-","Tl",205,0.003028,"ug/L",26.075,275.004
+"| ","Pb",208,1.208987,"ug/L",0.416,42320.978
+"|>","Bi",209,,"ug/L",,338291.545
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3619-02"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:26:44"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,481666.972
+"|-","Al",27,34.725003,"ug/L",0.834,273651.070
+"|-","V",51,-1.745373,"ug/L",11.006,-28815.648
+"| ","Cr",52,1.009678,"ug/L",4.298,20035.392
+"| ","Mn",55,50.882679,"ug/L",1.416,911042.072
+"| ","Fe",57,1021.647853,"ug/L",1.376,363924.149
+"| ","Co",59,0.056984,"ug/L",5.112,730.363
+"| ","Ni",60,0.592306,"ug/L",4.572,1568.135
+"| ","Cu",63,1.860136,"ug/L",1.397,9475.938
+"|>","Ge",74,,"ug/L",,303273.225
+"|-","Mo",97,10.667198,"ug/L",1.279,20351.073
+"|-","Ag",107,0.010778,"ug/L",13.295,107.667
+"|>","In",115,,"ug/L",,347961.647
+"|-","Ba",137,30.419969,"ug/L",1.177,112760.090
+"|-","Tl",205,-0.002688,"ug/L",24.288,147.001
+"| ","Pb",208,0.153869,"ug/L",1.852,6482.572
+"|>","Bi",209,,"ug/L",,382242.727
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:29:19"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,460492.220
+"|-","Al",27,689.780362,"ug/L",0.790,4557010.626
+"|-","V",51,48.979426,"ug/L",2.590,542609.100
+"| ","Cr",52,50.836050,"ug/L",1.612,519580.815
+"| ","Mn",55,49.352594,"ug/L",1.057,908340.664
+"| ","Fe",57,1016.381765,"ug/L",0.659,372133.981
+"| ","Co",59,51.959284,"ug/L",0.194,634319.017
+"| ","Ni",60,53.350628,"ug/L",0.782,128946.212
+"| ","Cu",63,105.499534,"ug/L",0.501,534854.246
+"|>","Ge",74,,"ug/L",,311669.256
+"|-","Mo",97,19.054107,"ug/L",0.737,37323.466
+"|-","Ag",107,10.502154,"ug/L",0.645,91369.383
+"|>","In",115,,"ug/L",,361514.597
+"|-","Ba",137,192.938770,"ug/L",0.803,742689.943
+"|-","Tl",205,49.049880,"ug/L",1.248,1545326.321
+"| ","Pb",208,49.395217,"ug/L",0.686,2128544.146
+"|>","Bi",209,,"ug/L",,420309.568
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCB@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:31:54"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,459485.637
+"|-","Al",27,2.385859,"ug/L",4.355,49468.899
+"|-","V",51,-0.728876,"ug/L",7.842,-18351.396
+"| ","Cr",52,0.216036,"ug/L",7.548,12776.306
+"| ","Mn",55,0.028380,"ug/L",46.845,1546.134
+"| ","Fe",57,0.692750,"ug/L",25.807,4507.451
+"| ","Co",59,0.004150,"ug/L",75.062,107.001
+"| ","Ni",60,-0.046590,"ug/L",10.582,70.334
+"| ","Cu",63,-0.011593,"ug/L",35.264,257.337
+"|>","Ge",74,,"ug/L",,314938.765
+"|-","Mo",97,0.082547,"ug/L",5.415,212.874
+"|-","Ag",107,0.001217,"ug/L",40.265,29.000
+"|>","In",115,,"ug/L",,363165.438
+"|-","Ba",137,0.018159,"ug/L",56.943,137.569
+"|-","Tl",205,0.001134,"ug/L",120.549,285.671
+"| ","Pb",208,0.002485,"ug/L",93.834,614.342
+"|>","Bi",209,,"ug/L",,425837.492
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","23K3619-03"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:34:29"
+"Sample Description:"
+"Batch ID:","12/6/2023"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,221428.043
+"|-","Al",27,76.755502,"ug/L",7.505,257978.218
+"|-","V",51,-2.866549,"ug/L",15.655,-23457.248
+"| ","Cr",52,2.423207,"ug/L",3.063,19268.068
+"| ","Mn",55,9950.803539,"ug/L",0.546,101436687.088
+"| ","Fe",57,161055.458093,"ug/L",0.527,32331887.209
+"| ","Co",59,2.216015,"ug/L",0.208,15031.083
+"| ","Ni",60,11.998804,"ug/L",1.071,16160.686
+"| ","Cu",63,13.990781,"ug/L",9.394,39486.425
+"|>","Ge",74,,"ug/L",,172831.649
+"|-","Mo",97,0.519046,"ug/L",3.297,590.329
+"|-","Ag",107,0.121538,"ug/L",1.091,663.024
+"|>","In",115,,"ug/L",,222874.143
+"|-","Ba",137,3505.743790,"ug/L",1.068,8319972.395
+"|-","Tl",205,-0.000600,"ug/L",130.567,93.334
+"| ","Pb",208,0.144257,"ug/L",1.751,2756.498
+"|>","Bi",209,,"ug/L",,172564.551
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:37:04"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,438396.346
+"|-","Al",27,836.679936,"ug/L",1.858,5253229.114
+"|-","V",51,48.872382,"ug/L",0.341,619813.840
+"| ","Cr",52,50.448350,"ug/L",0.387,590322.893
+"| ","Mn",55,49.182672,"ug/L",0.608,1036035.870
+"| ","Fe",57,1013.602073,"ug/L",1.304,424796.342
+"| ","Co",59,53.018840,"ug/L",0.945,740844.622
+"| ","Ni",60,54.080077,"ug/L",0.818,149617.499
+"| ","Cu",63,107.471958,"ug/L",1.137,623607.428
+"|>","Ge",74,,"ug/L",,356751.931
+"|-","Mo",97,18.786319,"ug/L",0.785,42121.538
+"|-","Ag",107,10.875203,"ug/L",0.752,102756.161
+"|>","In",115,,"ug/L",,392633.871
+"|-","Ba",137,195.877846,"ug/L",0.656,818987.493
+"|-","Tl",205,48.660941,"ug/L",1.511,1600075.856
+"| ","Pb",208,49.432599,"ug/L",0.941,2223489.317
+"|>","Bi",209,,"ug/L",,438775.461
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCB@2308559"
+"Sample Date/Time:","Wednesday, December 06, 2023 13:39:39"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,437960.946
+"|-","Al",27,3.592317,"ug/L",5.081,54669.232
+"|-","V",51,-0.715503,"ug/L",29.855,-19793.497
+"| ","Cr",52,-0.017935,"ug/L",105.090,11328.056
+"| ","Mn",55,0.563508,"ug/L",99.678,12476.233
+"| ","Fe",57,8.893955,"ug/L",103.282,8162.478
+"| ","Co",59,0.008027,"ug/L",55.504,168.335
+"| ","Ni",60,-0.013193,"ug/L",133.658,165.002
+"| ","Cu",63,0.013817,"ug/L",89.332,421.343
+"|>","Ge",74,,"ug/L",,342755.424
+"|-","Mo",97,0.059527,"ug/L",5.781,182.203
+"|-","Ag",107,0.001635,"ug/L",40.894,34.333
+"|>","In",115,,"ug/L",,381740.398
+"|-","Ba",137,0.198898,"ug/L",96.760,876.930
+"|-","Tl",205,0.003978,"ug/L",114.635,379.675
+"| ","Pb",208,0.005840,"ug/L",99.625,767.680
+"|>","Bi",209,,"ug/L",,430832.789
+"QC Calculated Values"
+"DLZ - Summary Report"
+"Sample ID:","SEQ-CCV@2308565"
+"Sample Date/Time:","Wednesday, December 06, 2023 14:14:39"
+"Sample Description:"
+"Batch ID:"
+"Initial Sample Quantity (mg):"
+"Sample Prep Volume (mL):"
+"Aliquot Volume (mL):"
+"Diluted To Volume (mL):"
+"Method File:","C:\Elandata\Method\6020&200.8 120623 MODIFIED.mth"
+"Analyst  :","ICPMS"
+"Intensities"
+"I/S","Analyte","Mass","Conc. Mean","Unit","Conc. RSD","Meas. Intens. Mean"
+"|>","Li",6,,"ug/L",,436646.443
+"|-","Al",27,710.732632,"ug/L",0.213,4450974.531
+"|-","V",51,48.953718,"ug/L",0.756,538298.867
+"| ","Cr",52,50.383342,"ug/L",0.208,511186.871
+"| ","Mn",55,49.210233,"ug/L",0.142,898798.544
+"| ","Fe",57,1010.354144,"ug/L",0.365,367160.353
+"| ","Co",59,52.077905,"ug/L",0.445,630956.315
+"| ","Ni",60,52.540486,"ug/L",0.518,126039.070
+"| ","Cu",63,105.146995,"ug/L",0.404,529013.600
+"|>","Ge",74,,"ug/L",,309315.387
+"|-","Mo",97,18.988662,"ug/L",0.680,36913.789
+"|-","Ag",107,10.576614,"ug/L",1.173,89580.864
+"|>","In",115,,"ug/L",,351978.810
+"|-","Ba",137,193.639425,"ug/L",0.537,725779.760
+"|-","Tl",205,48.960571,"ug/L",2.669,1483542.617
+"| ","Pb",208,49.582844,"ug/L",1.160,2055141.102
+"|>","Bi",209,,"ug/L",,404308.765
+"QC Calculated Values"
